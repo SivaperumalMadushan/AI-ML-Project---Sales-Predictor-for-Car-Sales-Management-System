@@ -1,0 +1,7 @@
+{
+    "mae": 14.61,
+    "rmse": 18.29,
+    "r2": 0.668,
+    "forecast_accuracy": 96.86,
+    "prediction_precision": 96.07
+}
